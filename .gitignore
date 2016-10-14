@@ -6,9 +6,13 @@
 .classpath
 *.iml
 
+.idea
+*.iml
+
 .gradle
 gradlew.bat
 
 build
 bin
 test-output
+target
