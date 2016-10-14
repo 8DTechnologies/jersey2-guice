@@ -4,6 +4,7 @@
 .project
 .settings
 .classpath
+*.iml
 
 .gradle
 gradlew.bat
